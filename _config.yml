@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "|"
+title                    : "maikolsoro"
 title_separator          : "-"
 name                     : "MaikolSoro"
 description              : "CyberSecurity Junior | Red-Team/Pentester | HTB/THM/HMVM/RTM Player"
@@ -117,7 +117,7 @@ author:
   github           : "MaikolSoro"
   gitlab           :
   google_plus      :
-  keybase          : "MaikolSoro"
+  keybase          : # "MaikolSoro"
   instagram        : "MaikolSoro"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
