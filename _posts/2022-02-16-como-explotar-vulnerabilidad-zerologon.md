@@ -2,7 +2,7 @@
 layout: single
 title: Cómo explotar la vulnerabilidad Zerologon
 excerpt: "Mucho se está hablando acerca de la nueva vulnerabilidad Zerologon, pero... ¿realmente es crítica?. Lo analizaremos en detalle en este artículo."
-date: 2020-09-16
+date: 2022-02-16
 classes: wide
 header:
   teaser: /assets/images/zerologon/zerologon.png
