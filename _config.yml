@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "maikolsoro"
+title                    : "H4ckNet | Ciberseguridad y Hacking Ético"
 title_separator          : "-"
 name                     : "MaikolSoro"
 description              : "CyberSecurity Junior | Red-Team/Pentester | HTB/THM/HMVM/RTM Player"
